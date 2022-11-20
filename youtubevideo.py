@@ -43,19 +43,5 @@ while True:
     else:
         print("çıkılıyor...")
         break
-       
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
